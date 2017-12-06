@@ -15,7 +15,7 @@
 ***
 
 
-### camera effects
+### Camera Effects
 
 ![christmas](techstartFilter.jpg?raw=true "Optional Title")
 
