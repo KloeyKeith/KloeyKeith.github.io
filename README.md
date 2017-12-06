@@ -17,7 +17,7 @@
 
 ### Camera Effects
 
-![christmas](techstartFilter.jpg?raw=true "Optional Title")
+![christmas](picture filename?raw=true "Optional Title")
 
 ***
 
