@@ -16,4 +16,4 @@ Storyscape
 
 This is my storyscape project.
 
-<script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://patches.vizor.io/embed/keithkloey/kloey-s-house-copy" ></script>
+<script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://patches.vizor.io/embed/keithkloey/kloey-s-house-copy-copy" ></script>
